@@ -12,7 +12,7 @@ conver_btn.addEventListener('click', () => {
     cont2.value = 'entrer un nombre decimal valide';
   }
 });
-//  la function/
+     //la function/
 function decimalToBinary(decimal){
  return decimal.toString(2);
 }
